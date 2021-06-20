@@ -1,0 +1,174 @@
+img
+{
+    position: absolute;
+    width: 125px;
+    height: 150px;
+    left: 670px;
+    top: 10px;
+    border-radius: 50%;    
+}
+
+.fondoSobremi
+{
+position: absolute;
+left: 700px;
+top: 160px;
+color:blue;
+}
+/*  <a  class="fondoH1" href="bibliografia.html" target="_Blank"> sobre mi </a>*/
+
+
+
+header {
+    position: absolute;
+    width: 1440px;
+    height: 189px;
+    left: 0px;
+    top: 0px;
+
+/*background: #E6E6E6;*/
+background-image: url(../img/fondo2.JPG);
+background-repeat: no-repeat;
+background-size: cover;
+      
+}
+
+
+main
+{
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+}
+h1
+{ /*no puedo centrar */
+    position:absolute;
+    width:1013;
+    height:30px;
+    left:213px;
+    top:190px;
+    font-size: 35px;  
+    color: #005677;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    
+}
+.fondoH1
+{
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 160px;
+    background-image: url(../img/fondotitulos.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h2
+{ /*no puedo centrar */
+    position:relative;
+    width: 1041px;
+    height: 30px;
+    left: 225px;
+    font-size: 20px; 
+    color: #005677;
+    text-align:left;
+    text-transform: uppercase;
+    background: #C4C4C4;
+}
+/*ok*/
+.topSFondo1
+{ top:300px;}
+.topSFondo2
+{ top:400px;}
+.topSFondo3
+{ top:550px;}
+
+.negritaItalic
+{
+    font-weight: bold;  
+    font-style: italic;
+}
+.negrita
+{
+    font-weight: bold;  
+}
+.topList1
+{
+    top: 400px;   
+}
+#margen_Li1
+{
+    position:absolute;
+    top: 350px;
+    left: 274px;
+    line-height:20px;
+}
+#margen_Li2
+{
+    position:absolute;
+    top: 500px;
+    left: 274px;
+    line-height:20px;
+}
+#margen_Li3
+{
+    position:absolute;
+    top: 700px;
+    left: 274px;
+    line-height:20px;
+}
+.itali_NegL1
+{
+    font-style: italic;
+    font-weight: bold;
+}
+.sinNegrita
+{
+    font-weight:normal;    
+}
+
+.list_sinpunto
+{
+    list-style:none;
+}
+
+footer
+{
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 10px;
+top: 887px;
+background-image: url(../img/fondotitulos.JPG);
+background-repeat: no-repeat;
+background-size: cover;
+color:#FFF;
+/*margin-left: -70px;
+/*text-align: center;*/
+
+display:flex;
+justify-content:center;
+margin-top: 10rem;
+padding:20px;
+}
+
+
+
+.imac{
+
+    left: 50vw;
+    width: 30px;
+    height: 30px;
+    
+    }
+
+
+
+    .tabular
+    {
+        margin-left: 80px;
+    }

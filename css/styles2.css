@@ -1,0 +1,131 @@
+header {
+    
+    width:100vw;
+    height: 100vw;
+    left: 0vw;
+    top: 0vw;
+    background-image: url(../img/foti.JPG);
+    background-repeat: repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.7;
+}
+
+
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1em;
+
+}
+img
+{
+    border-radius: 30%; 
+    width:20vw; /* you can use % */
+    height: 20vw;
+}
+
+
+#titulo
+{
+    position:absolute;
+    font-size:3rem;
+    text-decoration: underline;
+    left:40vw;
+    top: 35vw;
+    color:crimson;
+    
+}
+
+
+/* fila 1*/
+
+.foto1
+{
+position: absolute;
+left:1vw;
+top:3vw;
+}
+
+
+
+
+h3
+{   
+text-align:center ;    
+font-size: 3vw;
+}
+
+.foto2
+{
+position: absolute;
+left:25vw;
+top:1vw;
+}
+
+
+
+.foto3
+{
+position: absolute;
+left:50vw;
+top:1vw;
+}
+
+
+
+.foto4
+{
+position: absolute;
+left:75vw;
+top:1vw;
+}
+
+
+
+
+
+/* fila 2*/
+
+.foto5
+{
+position: absolute;
+left:1vw;
+top:30vw;
+}
+
+
+
+.foto6
+{
+position: absolute;
+left:75vw;
+top:30vw;
+}
+
+
+.foto7
+{
+position: absolute;
+left:1vw;
+top:60vw;
+}
+
+
+
+.foto8{
+position: absolute;
+left:75vw;
+top:60vw;
+}
+
+
+
+.foto9{
+    position: absolute;
+    left:40vw;
+    top:60vw;
+    }
+    
+
